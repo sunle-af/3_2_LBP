@@ -10,8 +10,6 @@ Prof. Dharmendra Singh (HOD Dept. of Computer Science Engineering IIT Roorkee)
 
 ### Links
 
-
-
 [Gdrive Images](https://drive.google.com/drive/folders/1Jnk-6WlgnGXwBOwNyPrNVzb5jg-mADUa?usp=sharing)
 .tiff files form which Training and Testing must be extracted.
 ### Description 
@@ -25,7 +23,8 @@ on the oceans, where ships can be identified and tracked by their wakes. In addi
 leakage from oil storage facilities is commonly observed. This could reveal more about the
 oil companies.
 ### Problem Statement
-![]()
+![high](https://user-images.githubusercontent.com/44070827/120271154-70ffeb80-c2c8-11eb-8d1c-ad0078f02b15.png)
+
 
  Given Sentinel-1 and PALSAR Synthetic Aperture Radar Images
 of Roorkee(247667). Our Goal is to classify Railway Tracks and Urban areas among
