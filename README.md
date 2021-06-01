@@ -1,5 +1,21 @@
 # 3_2_LBP
 Lab Based project 
+### Our Goal
+![high](https://user-images.githubusercontent.com/44070827/120271154-70ffeb80-c2c8-11eb-8d1c-ad0078f02b15.png )
+
+
+Satellite Image of Roorkee(247667)
+ Given Sentinel-1 and PALSAR Synthetic Aperture Radar Images
+of Roorkee(247667). Our Goal is to classify Railway Tracks and Urban areas among
+tall Vegetated( i.e. IITR Main Building or Civil Hospital). Since SAR data set contains data in various TH-RX polarisation variations the image provided will be a .tiff image file from which data must be extracted. Finally , create a Machine Learning Model that will recognises train tracks and urban areas is built using the data collection.
+
+![1](https://user-images.githubusercontent.com/44070827/120271242-9d1b6c80-c2c8-11eb-9ef3-199dae2861e3.png)
+
+Railway Track
+
+![2](https://user-images.githubusercontent.com/44070827/120271253-a0165d00-c2c8-11eb-9824-84a540ddc947.png)
+
+Urban Area Surrounded by tall vegatition (IIR MAIN BUILDING)
 
 ## Applications of AI for Target Identification with Microwave Imaging System
 ### Aanand Vishnu Nambudiripad (18114001)
@@ -22,16 +38,7 @@ variety of machine learning techniques.This project has limitless applications, 
 on the oceans, where ships can be identified and tracked by their wakes. In addition, regular
 leakage from oil storage facilities is commonly observed. This could reveal more about the
 oil companies.
-### Problem Statement
-![high](https://user-images.githubusercontent.com/44070827/120271154-70ffeb80-c2c8-11eb-8d1c-ad0078f02b15.png)
-Satellite Image of Roorkee(247667)
- Given Sentinel-1 and PALSAR Synthetic Aperture Radar Images
-of Roorkee(247667). Our Goal is to classify Railway Tracks and Urban areas among
-tall Vegetated( i.e. IITR Main Building or Civil Hospital). Since SAR data set contains data in various TH-RX polarisation variations the image provided will be a .tiff image file from which data must be extracted. Finally , create a Machine Learning Model that will recognises train tracks and urban areas is built using the data collection.
-![1](https://user-images.githubusercontent.com/44070827/120271242-9d1b6c80-c2c8-11eb-9ef3-199dae2861e3.png)
-Railway Track
-![2](https://user-images.githubusercontent.com/44070827/120271253-a0165d00-c2c8-11eb-9824-84a540ddc947.png)
-Urban Area Surrounded by tall vegatition (IIR MAIN BUILDING)
+
 ### Methodlogy 
 ![flowchar](https://user-images.githubusercontent.com/44070827/120271399-e5d32580-c2c8-11eb-81bb-c0eef35699fa.png)
 ### Resultant Accuracy on Different Models 
