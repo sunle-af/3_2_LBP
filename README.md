@@ -10,8 +10,10 @@ Prof. Dharmendra Singh (HOD Dept. of Computer Science Engineering IIT Roorkee)
 
 ### Links
 
-[Gdrive Images](https://drive.google.com/drive/folders/1Jnk-6WlgnGXwBOwNyPrNVzb5jg-mADUa?usp=sharing)
 
+
+[Gdrive Images](https://drive.google.com/drive/folders/1Jnk-6WlgnGXwBOwNyPrNVzb5jg-mADUa?usp=sharing)
+.tiff files form which Training and Testing must be extracted.
 ### Description 
 In recent years, there has been continuous development in machine learning technology
 and this has also lead to a new standard in Target recognition with respect to Synthetic
